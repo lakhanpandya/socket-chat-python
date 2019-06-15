@@ -1,0 +1,3 @@
+SERVER = "localhost"
+PORT = 9090
+OPEN_CONNECTIONS = 5
